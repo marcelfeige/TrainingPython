@@ -1,0 +1,30 @@
+Datenbank Übungen 
+GUI Übungen anlegen 
+GUI Übungen ändern 
+GUI Übungen löschen
+
+Ordnerstruktur für die Datenbanken und Classen erstellen bzw. anpassen 
+
+Datenbank Trainingseinheiten Treeview, Schleife für die Länge result
+
+
+PW zum ändern der Übungen?
+
+gui löschen für alle möglich - dantenbank übergeben
+
+Datenbank Trainingseinheiten 
+GUI Trainingseinheit hinzufügen 
+GUI Trainingseingeit bearbeiten 
+GUI Trainingseinheit löschen 
+Trainingseinheiten mit Personen aus Datenbank vernknüpfen 
+
+
+Trainingsplan erstellen 
+	Übungen aus Datenbank wählen (DropDown Menu)
+	Verschiedene Tage erstellen (DropDown Menu mir Vorauswahl - 3, 4, 5 Tage) 
+	Trainingspläne mit Personen aus Datenbank vernknüpfen
+
+Farbe der Oberflächen anpassen (Auswahl?)
+
+Diagramme und Statistiken Trainingsdaten
+	
